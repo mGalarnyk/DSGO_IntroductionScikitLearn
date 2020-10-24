@@ -61,61 +61,6 @@
     <td></td>
   </tr>
   <tr>
-    <td>11</td>
-    <td>Standardization</td>
-    <td>(.ipynb)</td>
-  </tr>
-   <tr>
-    <td>12</td>
-    <td>K-Nearest Neighbors</td>
-    <td>(.ipynb)</td>
-  </tr>
-  <tr>
-    <td>9</td>
-    <td>Logistic regression using scikit-learn</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>10</td>
-    <td>Logistic regression for Multiclass classification</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>15</td>
-    <td>Which machine learning model should you use</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>16</td>
-    <td>What is unsupervised learning</td>
-    <td></td>
-  </tr>
- <tr>
-    <td>17</td>
-    <td>KMeans clustering</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>18</td>
-    <td>PCA for data visualization</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>19</td>
-    <td>PCA to speed up machine learning algorithms</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>20</td>
-    <td>Scikit-learn pipelines</td>
-    <td></td>
-  </tr>
-  <tr>
-  	<td>8</td>
-    <td>Polynomial regression using scikit-learn</td>
-    <td>.ipynb</td>
-  </tr>
-  <tr>
     <td>20</td>
     <td>Conclusion</td>
     <td>Conclusion.pdf</td>
