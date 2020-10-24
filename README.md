@@ -18,7 +18,7 @@
   <tr>
   	<th>2</th>
     <td>Setup python (Anaconda or Colab)</td>
-    <td>https://github.com/mGalarnyk/DSGO_IntroductionScikitLearn/blob/master/Setup.md</td>
+    <td><a href="https://github.com/mGalarnyk/DSGO_IntroductionScikitLearn/blob/main/Setup.md">Setup</a></td>
   </tr>
   <tr>
     <td>3</td>
@@ -49,16 +49,6 @@
     <td>8</td>
     <td>Visualize decision trees using Python</td>
     <td>DecisionTreesVisualization.ipynb</td>
-  </tr>
-  <tr>
-    <td>9</td>
-    <td>Bagged trees</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>10</td>
-    <td>Random forests using scikit-learn</td>
-    <td></td>
   </tr>
   <tr>
     <td>20</td>
