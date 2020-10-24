@@ -7,7 +7,7 @@
   <colgroup span="4"></colgroup>
   <tbody><tr>
   	<th></th>
-    <th>Session Name</th>
+    <th>Topic</th>
     <th>Resources</th>
   </tr>
   <tr>
