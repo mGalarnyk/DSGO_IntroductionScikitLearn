@@ -50,8 +50,13 @@
     <td>Visualize decision trees using Python</td>
     <td>DecisionTreesVisualization.ipynb</td>
   </tr>
+   <tr>
+    <td>9</td>
+    <td>Bagged trees using Scikit-Learn</td>
+    <td>BaggedTrees.ipynb</td>
+  </tr>
   <tr>
-    <td>20</td>
+    <td>10</td>
     <td>Conclusion</td>
     <td>Conclusion.pdf</td>
   </tr>
