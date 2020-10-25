@@ -52,12 +52,12 @@
   </tr>
    <tr>
     <td>9</td>
-    <td>Bagged trees using Python/td>
+    <td>Bagged trees using Python</td>
     <td>BaggedTrees.ipynb</td>
   </tr>
   <tr>
     <td>10</td>
-    <td>Random Forests using Python/td>
+    <td>Random Forests using Python</td>
     <td>RandomForests.ipynb</td>
   </tr>
   <tr>
