@@ -57,6 +57,11 @@
   </tr>
   <tr>
     <td>10</td>
+    <td>Random Forests using Python/td>
+    <td>RandomForests.ipynb</td>
+  </tr>
+  <tr>
+    <td>11</td>
     <td>Conclusion</td>
     <td>Conclusion.pdf</td>
   </tr>
