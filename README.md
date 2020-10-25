@@ -62,6 +62,11 @@
   </tr>
   <tr>
     <td>11</td>
+    <td>Logistic Regression using Python</td>
+    <td>LogisticRegression.ipynb, LogisticOneVsAll.ipynb </td>
+  </tr>  
+  <tr>
+    <td>12</td>
     <td>Conclusion</td>
     <td>Conclusion.pdf</td>
   </tr>
