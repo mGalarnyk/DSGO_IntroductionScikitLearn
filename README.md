@@ -1,5 +1,7 @@
 # Introduction to Scikit-Learn
 
+This was for a Data Science Go (DSGO) Virtual Workshop on October 25, 2020. Hopefully the video will be posted. 
+
 ## Agenda
 </table>
 </div>
