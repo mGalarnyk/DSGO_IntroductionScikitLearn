@@ -52,7 +52,7 @@
   </tr>
    <tr>
     <td>9</td>
-    <td>Bagged trees using Scikit-Learn</td>
+    <td>Bagged trees using Python/td>
     <td>BaggedTrees.ipynb</td>
   </tr>
   <tr>
