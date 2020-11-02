@@ -3,8 +3,7 @@
 This was for a Data Science Go (DSGO) Virtual Workshop on October 25, 2020. Hopefully the video will be posted. 
 
 ## Agenda
-</table>
-</div>
+
 <table>
   <colgroup span="4"></colgroup>
   <tbody><tr>
