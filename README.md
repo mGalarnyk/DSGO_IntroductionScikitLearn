@@ -73,3 +73,4 @@ This was for a Data Science Go (DSGO) Virtual Workshop on October 25, 2020. Hope
   </tr>
 </tbody></table>
 
+A possible next step after this presentation is to try and make your scikit-learn workflow more efficient. One way to do this is to read this article on [How to Speed Up Scikit-Learn](https://medium.com/distributed-computing-with-ray/how-to-speed-up-scikit-learn-model-training-aaf17e2d1e1). 
