@@ -1,6 +1,6 @@
 # Introduction to Scikit-Learn
 
-This was for a Data Science Go (DSGO) Virtual Workshop on October 25, 2020. [Video Here](https://youtu.be/FFKMk6mcJlM)
+This talk ([video here](https://youtu.be/FFKMk6mcJlM)) was for a Data Science Go (DSGO) Virtual Workshop on October 25, 2020.
 
 ## Agenda
 
