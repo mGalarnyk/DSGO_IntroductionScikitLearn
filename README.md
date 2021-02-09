@@ -74,6 +74,6 @@ This was for a Data Science Go (DSGO) Virtual Workshop on October 25, 2020. [Vid
   <tr>
     <td>13</td>
     <td>Bonus Content (not in presentation)</td>
-    <td>[How to Speed Up Scikit-Learn Model Training](https://medium.com/distributed-computing-with-ray/how-to-speed-up-scikit-learn-model-training-aaf17e2d1e1)</td>
+    <td>![How to Speed Up Scikit-Learn Model Training](https://medium.com/distributed-computing-with-ray/how-to-speed-up-scikit-learn-model-training-aaf17e2d1e1)</td>
   </tr>
 </tbody></table>
