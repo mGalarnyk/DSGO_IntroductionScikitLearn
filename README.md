@@ -14,7 +14,7 @@ This talk ([video here](https://youtu.be/FFKMk6mcJlM)) was for a Data Science Go
   <tr>
   	<th>1</th>
     <td>Introduction</td>
-    <td>Introduction.pdf</td>
+    <td><a href="https://github.com/mGalarnyk/DSGO_IntroductionScikitLearn/blob/main/powerpoints">Introduction.pdf</td>
   </tr>
   <tr>
   	<th>2</th>
@@ -23,53 +23,55 @@ This talk ([video here](https://youtu.be/FFKMk6mcJlM)) was for a Data Science Go
   </tr>
   <tr>
     <td>3</td>
-    <td>How to format data for scikit-learn</td>
-    <td>Format_Data_For_Machine_Learning.ipynb</td>
+    <td>How to format data for scikit-learn>Setup</a></td>
+    <td><a href="https://github.com/mGalarnyk/DSGO_IntroductionScikitLearn/blob/main/Format_Data_For_Machine_Learning.ipynb">Format_Data_For_Machine_Learning.ipynb</td>
   </tr>    
   <tr>
     <td>4</td>
     <td>Linear regression using scikit-learn</td>
-    <td>LinearRegression.ipynb</td>
+    <td><a href="https://github.com/mGalarnyk/DSGO_IntroductionScikitLearn/blob/main/LinearRegression.ipynb">LinearRegression.ipynb</td>
   </tr>
   <tr>
     <td>5</td>
     <td>Train test split</td>
-    <td>TrainTestSplit.ipynb, BostonSplit.ipynb</td>    
+    <td><a href="https://github.com/mGalarnyk/DSGO_IntroductionScikitLearn/blob/main/TrainTestSplit.ipynb">TrainTestSplit.ipynb</td>,
+    <a href="https://github.com/mGalarnyk/DSGO_IntroductionScikitLearn/blob/main/BostonSplit.ipynb">BostonSplit.ipynb</td>    
   </tr>
   <tr>
     <td>6</td>
     <td>Decision trees for classification</td>
-    <td>DecisionTreesClassification.ipynb</td>
+    <td><a href="https://github.com/mGalarnyk/DSGO_IntroductionScikitLearn/blob/main/DecisionTreesClassification.ipynb">DecisionTreesClassification.ipynb</td>
   </tr>
   <tr>
     <td>7</td>
     <td>Decision trees for regression</td>
-    <td>DecisionTreesRegression.ipynb</td>
+    <td><a href="https://github.com/mGalarnyk/DSGO_IntroductionScikitLearn/blob/main/DecisionTreesRegression.ipynb">DecisionTreesRegression.ipynb</td>
   </tr>
   <tr>
     <td>8</td>
     <td>Visualize decision trees using Python</td>
-    <td>DecisionTreesVisualization.ipynb</td>
+    <td><a href="https://github.com/mGalarnyk/DSGO_IntroductionScikitLearn/blob/main/DecisionTreesVisualization.ipynb">DecisionTreesVisualization.ipynb</td>
   </tr>
    <tr>
     <td>9</td>
     <td>Bagged trees using Python</td>
-    <td>BaggedTrees.ipynb</td>
+    <td><a href="https://github.com/mGalarnyk/DSGO_IntroductionScikitLearn/blob/main/BaggedTrees.ipynb">BaggedTrees.ipynb</td>
   </tr>
   <tr>
     <td>10</td>
     <td>Random Forests using Python</td>
-    <td>RandomForests.ipynb</td>
+    <td><a href="https://github.com/mGalarnyk/DSGO_IntroductionScikitLearn/blob/main/RandomForests.ipynb">RandomForests.ipynb</td>
   </tr>
   <tr>
     <td>11</td>
     <td>Logistic Regression using Python</td>
-    <td>LogisticRegression.ipynb, LogisticOneVsAll.ipynb </td>
+    <td><a href="https://github.com/mGalarnyk/DSGO_IntroductionScikitLearn/blob/main/LogisticRegression.ipynb">LogisticRegression.ipynb</td>,
+    <a href="https://github.com/mGalarnyk/DSGO_IntroductionScikitLearn/blob/main/LogisticOneVsAll.ipynb">LogisticOneVsAll.ipynb</td>
   </tr>  
   <tr>
     <td>12</td>
     <td>Conclusion</td>
-    <td>Conclusion.pdf</td>
+    <td><a href="https://github.com/mGalarnyk/DSGO_IntroductionScikitLearn/blob/main/powerpoints/Conclusion.pdf">Conclusion.pdf</td>
   </tr>
   <tr>
     <td>13</td>
