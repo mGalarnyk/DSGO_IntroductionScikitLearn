@@ -24,7 +24,7 @@ This talk ([video here](https://youtu.be/FFKMk6mcJlM)) was for a Data Science Go
   <tr>
     <td>3</td>
     <td>How to format data for scikit-learn>Setup</a></td>
-    <td><a href="https://github.com/mGalarnyk/DSGO_IntroductionScikitLearn/blob/main/notebooks/Format_Data_For_Machine_Learning.ipynb">Format_Data_For_Machine_Learning.ipynb</td>
+    <td><a href="https://github.com/mGalarnyk/DSGO_IntroductionScikitLearn/blob/main/notebooks/FormatDataForMachineLearning.ipynb">FormatDataForMachineLearning.ipynb</td>
   </tr>    
   <tr>
     <td>4</td>
