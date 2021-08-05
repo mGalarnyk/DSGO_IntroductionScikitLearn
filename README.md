@@ -71,7 +71,7 @@ This talk ([video here](https://youtu.be/FFKMk6mcJlM)) was for a Data Science Go
   <tr>
     <td>12</td>
     <td>Conclusion</td>
-    <td><a href="./notebooks/powerpoints/Conclusion.pdf">Conclusion.pdf</a></td>
+    <td><a href="./powerpoints/Conclusion.pdf">Conclusion.pdf</a></td>
   </tr>
   <tr>
     <td>13</td>
