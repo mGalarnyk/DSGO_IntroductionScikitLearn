@@ -14,62 +14,64 @@ This talk ([video here](https://youtu.be/FFKMk6mcJlM)) was for a Data Science Go
   <tr>
   	<th>1</th>
     <td>Introduction</td>
-    <td>Introduction.pdf</td>
+    <td><a href="./powerpoints/Introduction.pdf">Introduction.pdf</a></td>
   </tr>
   <tr>
   	<th>2</th>
     <td>Setup python (Anaconda or Colab)</td>
-    <td><a href="https://github.com/mGalarnyk/DSGO_IntroductionScikitLearn/blob/main/Setup.md">Setup</a></td>
+    <td><a href="./Setup.md">Setup</a></td>
   </tr>
   <tr>
     <td>3</td>
-    <td>How to format data for scikit-learn</td>
-    <td>Format_Data_For_Machine_Learning.ipynb</td>
+    <td>How to format data for scikit-learn>Setup</a></td>
+    <td><a href="./notebooks/FormatDataForMachineLearning.ipynb">FormatDataForMachineLearning.ipynb</a></td>
   </tr>    
   <tr>
     <td>4</td>
     <td>Linear regression using scikit-learn</td>
-    <td>LinearRegression.ipynb</td>
+    <td><a href="./notebooks/LinearRegression.ipynb">LinearRegression.ipynb</a></td>
   </tr>
   <tr>
     <td>5</td>
     <td>Train test split</td>
-    <td>TrainTestSplit.ipynb, BostonSplit.ipynb</td>    
+    <td><a href="./notebooks/TrainTestSplit.ipynb">TrainTestSplit.ipynb</a>,
+    <a href="./notebooks/BostonSplit.ipynb">BostonSplit.ipynb</a></td>    
   </tr>
   <tr>
     <td>6</td>
     <td>Decision trees for classification</td>
-    <td>DecisionTreesClassification.ipynb</td>
+    <td><a href="./notebooks/DecisionTreesClassification.ipynb">DecisionTreesClassification.ipynb</a></td>
   </tr>
   <tr>
     <td>7</td>
     <td>Decision trees for regression</td>
-    <td>DecisionTreesRegression.ipynb</td>
+    <td><a href="./notebooks/DecisionTreesRegression.ipynb">DecisionTreesRegression.ipynb</a></td>
   </tr>
   <tr>
     <td>8</td>
     <td>Visualize decision trees using Python</td>
-    <td>DecisionTreesVisualization.ipynb</td>
+    <td><a href="./notebooks/DecisionTreesVisualization.ipynb">DecisionTreesVisualization.ipynb</a></td>
   </tr>
    <tr>
     <td>9</td>
     <td>Bagged trees using Python</td>
-    <td>BaggedTrees.ipynb</td>
+    <td><a href="./notebooks/BaggedTrees.ipynb">BaggedTrees.ipynb</a></td>
   </tr>
   <tr>
     <td>10</td>
     <td>Random Forests using Python</td>
-    <td>RandomForests.ipynb</td>
+    <td><a href="./notebooks/RandomForests.ipynb">RandomForests.ipynb</a></td>
   </tr>
   <tr>
     <td>11</td>
     <td>Logistic Regression using Python</td>
-    <td>LogisticRegression.ipynb, LogisticOneVsAll.ipynb </td>
+    <td><a href="./notebooks/LogisticRegression.ipynb">LogisticRegression.ipynb</a>,
+    <a href="./notebooks/LogisticOneVsAll.ipynb">LogisticOneVsAll.ipynb</a></td>
   </tr>  
   <tr>
     <td>12</td>
     <td>Conclusion</td>
-    <td>Conclusion.pdf</td>
+    <td><a href="./powerpoints/Conclusion.pdf">Conclusion.pdf</a></td>
   </tr>
   <tr>
     <td>13</td>
